@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ACN_AI_Hackathon", "ACN_AI_Hackathon\ACN_AI_Hackathon.pyproj", "{B72B74BE-7876-4E29-907C-47DADD1F331C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B72B74BE-7876-4E29-907C-47DADD1F331C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72B74BE-7876-4E29-907C-47DADD1F331C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {675645AA-C437-4BF8-859A-0EC14B6AB85C}
+	EndGlobalSection
+EndGlobal
